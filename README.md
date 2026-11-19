@@ -2,7 +2,7 @@
 
 A simple full-stack note-taking application. Users can sign up, log in, and create, view, edit and delete their own notes. Notes are private: each note belongs to the user who created it, and no one else can read or change it.
 
-**Live demo:** https://YOUR-APP-NAME.onrender.com
+**Live demo:** https://notes-app-0viw.onrender.com
 **Repository:** https://github.com/ra109/notes-app
 
 > The demo runs on a free hosting plan. If it has been idle, the first load can take up to a minute.
